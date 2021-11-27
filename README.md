@@ -7,7 +7,8 @@
 - 🤔 I’m looking for help with anything! Feel free to contribute in any of my public repos 😁
 - 📫 How to reach me: [Twitter - @ensomun](https://twitter.com/ensomun), [LinkedIn - Enzo Muñoz](https://www.linkedin.com/in/enzomdev/)
 - ⚡ Fun fact: when I'm not learning or coding, I like to spent time tryharding competitive videogames ⚡
-_
+
+___
 ### Languages and tools I use:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,7 +20,7 @@ _
 <code><img height="30" src="https://image.pngaaa.com/278/3081278-middle.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png"></code>
 
-_
+___
 
 
 ![Enzo Muñoz GitHub stats](https://github-readme-stats.vercel.app/api?username=enzom-uy&show_icons=true&theme=dracula)
