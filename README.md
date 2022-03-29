@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on the Open Source community.
 - 🤔 I’m looking for help with anything! Feel free to contribute in any of my public repos 😁
 - ⚡ Fun fact: when I'm not learning or coding, I like to spent time tryharding competitive videogames ⚡
+- ⚡ You can watch me being stuck because of my own code at [Twitch: enzom_dev](https://twitch.tv/enzom_dev/) ⚡
 
 ___
 ### Languages and tools I use:
@@ -21,6 +22,6 @@ ___
 ___
 
 
-![Enzo Muñoz GitHub stats](https://github-readme-stats.vercel.app/api?username=enzom-uy&show_icons=true&theme=dracula)
+![Enzo Muñoz GitHub stats](https://github-readme-stats.vercel.app/api?username=enzom-uy&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB) 
 
 ___
