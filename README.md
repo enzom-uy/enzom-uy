@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning more about React as my main JavaScript Framework.
 - 👯 I’m looking to collaborate on the Open Source community.
 - 🤔 I’m looking for help with anything! Feel free to contribute in any of my public repos 😁
-- ⚡ Fun fact: when I'm not learning or coding, I like to spent time tryharding competitive videogames ⚡
-- ⚡ You can watch me being stuck because of my own code at [Twitch: enzom_dev](https://twitch.tv/enzom_dev/) ⚡
 
 ___
 ### Languages and tools I use:
