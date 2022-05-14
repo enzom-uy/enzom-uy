@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on getting involved in more Open Source projects while looking for a job. 
-- 🌱 I’m currently learning more about React as my main JavaScript Framework.
+- 🌱 I’m currently learning more about React as my main JavaScript library.
 - 👯 I’m looking to collaborate on the Open Source community.
 - 🤔 I’m looking for help with anything! Feel free to contribute in any of my public repos 😁
 
