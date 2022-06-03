@@ -1,10 +1,11 @@
 ### Hola, I'm Enzo Muñoz! 👋
 
 
-- 🔭 I’m currently working on getting involved in more Open Source projects while looking for a job. 
+- 🔭 I’m a self-taught Full stack developer, based in Uruguay. 
 - 🌱 I’m currently learning more about React as my main JavaScript library.
 - 👯 I’m looking to collaborate on the Open Source community.
 - 🤔 I’m looking for help with anything! Feel free to contribute in any of my public repos 😁
+- 📺 You can watch me code every now and then on twitch: [enzom_dev - Twitch](https://twitch.tv/enzom_dev)
 
 ___
 ### Languages and tools I use:
@@ -16,3 +17,11 @@ ___
 ![Enzo Muñoz GitHub stats](https://github-readme-stats.vercel.app/api?username=enzom-uy&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB) 
 
 ___
+### Contact me:
+> **LinkedIn:** [Enzo Muñoz](linkedin.com/in/enzomdev)
+> 
+>  **Gmail:** enzom.dev@gmail.com
+>  
+>  **Twitter:** [@enzom_uy](twitter.com/enzom_uy)
+
+
