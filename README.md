@@ -19,7 +19,7 @@ ___
 ### Contact me:
 > **LinkedIn:** [Enzo Muñoz](https://linkedin.com/in/enzomdev)
 > 
->  **Gmail:** enzom.dev@gmail.com
+>  **Gmail:** [enzom.dev@gmail.com](mailto:enzom.dev@gmail.com)
 >  
 >  **Twitter:** [@enzom_uy](https://twitter.com/enzom_uy)
 
